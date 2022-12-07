@@ -1,17 +1,28 @@
-# Nome do meu projeto
+# Meu Portifólio.
+
 
 Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Meu Portifólio de Projetos**
+| :label: Tecnologias | REACTjs, TypeScrit, Sass, Html, Css, JavaScript
+| :rocket: URL         | https://my-procfile.vercel.app/
+| :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Imagem do protifolio](https://github.com/xing-wang-kai/MY_PROCFILE/blob/master/public/portifolio.gif#vitrinedev)
 
-## Detalhes do projeto
+## Detalhes deste projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Este é meu Portifólio Pessoa, Foi desenvolvido com o foco de divulgaçãod o meu trabalho
+Atualmente ele está em desenvolvimento para novas melhorias e inserir novos projetos que possam ser compartilhados com todos.
+...
+
+### Mais Projetos
+(newsLetter)[https://projeto-kaiwang-newsletter-tailwind.vercel.app/]
+(book store)[https://projeto-kaiwang-book-store.vercel.app/]
+(google glass)[https://projeto-google-glass-lake.vercel.app/]
+(Music Dot!)[https://musicdot-six.vercel.app/]
+(mirror Fashion!)[https://exercicios-html-css-js-mirror-fashio-alura.vercel.app/]
+(Barbearia Alura)[https://portifolio-barbearia.vercel.app/]
