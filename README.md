@@ -20,9 +20,27 @@ Atualmente ele está em desenvolvimento para novas melhorias e inserir novos pro
 ...
 
 ### Mais Projetos
-(newsLetter)[https://projeto-kaiwang-newsletter-tailwind.vercel.app/]
-(book store)[https://projeto-kaiwang-book-store.vercel.app/]
-(google glass)[https://projeto-google-glass-lake.vercel.app/]
-(Music Dot!)[https://musicdot-six.vercel.app/]
-(mirror Fashion!)[https://exercicios-html-css-js-mirror-fashio-alura.vercel.app/]
-(Barbearia Alura)[https://portifolio-barbearia.vercel.app/]
+<div align="center">
+
+[newsLetter](https://projeto-kaiwang-newsletter-tailwind.vercel.app/)
+
+![newletter gif](https://github.com/xing-wang-kai/PROJETO_KAIWANG_NEWSLETTER_TAILWIND/blob/main/image/imagemofwebsite.gif)
+
+[book store](https://projeto-kaiwang-book-store.vercel.app/)
+
+![book store](https://github.com/xing-wang-kai/PROJETO_KAIWANG_BOOK_STORE/blob/main/resources/gif/desktopgit.gif)
+
+[google glass](https://projeto-google-glass-lake.vercel.app/)
+
+![google glass git](https://github.com/xing-wang-kai/PROJETO_GOOGLE_GLASS/blob/main/_imagens/googleglass.gif)
+
+[Music Dot](https://musicdot-six.vercel.app/)
+
+[mirror Fashion](https://exercicios-html-css-js-mirror-fashio-alura.vercel.app/)
+
+
+[Barbearia Alura](https://portifolio-barbearia.vercel.app/)
+
+![barbearia Alura gif](https://github.com/xing-wang-kai/PORTIFOLIO_BARBEARIA/blob/main/resource/markdownsrc/barbeariasobre.gif)
+
+</div>
