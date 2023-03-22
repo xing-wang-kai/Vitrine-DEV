@@ -43,4 +43,6 @@ Atualmente ele está em desenvolvimento para novas melhorias e inserir novos pro
 
 ![barbearia Alura gif](https://github.com/xing-wang-kai/PORTIFOLIO_BARBEARIA/blob/main/resource/markdownsrc/barbeariasobre.gif)
 
+[Aluroni Restaurante](https://projeto-aluroni-nu.vercel.app/)
+
 </div>
